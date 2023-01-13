@@ -1,6 +1,6 @@
 # Backroads App
 
-This project is from John Smilga's course
+This project is from John Smilga's React course
 
 #### Create New React App
 
